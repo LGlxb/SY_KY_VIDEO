@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">kyapp</string>
+    <string name="confirm">确定</string>
+    <string name="title">温馨提示</string>
+    <string name="consent">同意</string>
+    <string name="nouse">暂不使用</string>
+    <string name="error_occurred">发生了意外错误。\n抱歉给老哥你带来了不便。</string>
+    <string name="bottomname1">每日精选</string>
+    <string name="bottomname2">发现</string>
+    <string name="bottomname3">热门</string>
+    <string name="bottomname4">我的</string>
+    <string name="empty_view">暂不支持的类型</string>
+
+</resources>
